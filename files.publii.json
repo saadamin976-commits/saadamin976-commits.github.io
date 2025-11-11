@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "f340a9b5ed46cf7ac8720833211e3cd5"
+    },
+    {
+        "path": "a-complete-guide-to-learning-quran-for-every-muslim-in-the-digital-age",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-complete-guide-to-learning-quran-for-every-muslim-in-the-digital-age/index.html",
+        "type": "file",
+        "md5": "807cc0b3bf68c5ee0d186a014325ba06"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "6be38d8db906e258e57aefd2d5f37489"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "f807d3dc8eff53977dd0aac4902319e2"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "61cbbc76c911a7d21c5059eafc5a4310"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "2c3a8e8df860ba564d71cd51ac2f894c"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-4.png",
+        "type": "file",
+        "md5": "007f15d6255ad9b3f4aaa1113152e17a"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/download-4-2xl.png",
+        "type": "file",
+        "md5": "efb44195af7bf99217834169e1590166"
+    },
+    {
+        "path": "/media/website/responsive/download-4-lg.png",
+        "type": "file",
+        "md5": "efb44195af7bf99217834169e1590166"
+    },
+    {
+        "path": "/media/website/responsive/download-4-md.png",
+        "type": "file",
+        "md5": "efb44195af7bf99217834169e1590166"
+    },
+    {
+        "path": "/media/website/responsive/download-4-sm.png",
+        "type": "file",
+        "md5": "efb44195af7bf99217834169e1590166"
+    },
+    {
+        "path": "/media/website/responsive/download-4-xl.png",
+        "type": "file",
+        "md5": "efb44195af7bf99217834169e1590166"
+    },
+    {
+        "path": "/media/website/responsive/download-4-xs.png",
+        "type": "file",
+        "md5": "efb44195af7bf99217834169e1590166"
+    },
+    {
+        "path": "online-quran-classes-a-modern-path-to-mastering-the-holy-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-a-modern-path-to-mastering-the-holy-quran/index.html",
+        "type": "file",
+        "md5": "df500d542b9d8a7862140e06ee2f7d9c"
+    },
+    {
+        "path": "online-quran-classes-learn-the-quran-with-expert-tutors-from-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-learn-the-quran-with-expert-tutors-from-anywhere/index.html",
+        "type": "file",
+        "md5": "7f858f9efbe07459f98009e0ce170286"
+    },
+    {
+        "path": "online-quran-classes-your-gateway-to-learning-the-holy-quran-anytime-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-your-gateway-to-learning-the-holy-quran-anytime-anywhere/index.html",
+        "type": "file",
+        "md5": "26e8c9baccf1e4f3d3fe87c2f5d30476"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "5feba70f2c4d8fcde6395a56ab6ff298"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "0d0068f54da57aff512c7c2fb87c479a"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "4f7d93f3490ea2fca26895756d17d875"
+    },
+    {
+        "path": "the-spiritual-path-to-knowledge-learning-quran-in-the-modern-era",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-spiritual-path-to-knowledge-learning-quran-in-the-modern-era/index.html",
+        "type": "file",
+        "md5": "19c9a7765f2a54c70cc2abf8f15afc56"
+    }
+]
